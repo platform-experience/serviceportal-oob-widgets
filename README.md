@@ -1,8 +1,8 @@
 # ServiceNow Out of the Box (OOB) Widgets
 
 ### Examples
-* [Breadcrumbs](/tree/master/Breadcrumbs)
-* [Carousel](/tree/master/Carousel)
+* [Breadcrumbs](Breadcrumbs)
+* [Carousel](./tree/master/Carousel)
 * [Header menu](/tree/master/Header%20menu)
 * [HTML](/tree/master/HTML)
 * [Organization Chart](/tree/master/Organization%20Chart)
