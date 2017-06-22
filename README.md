@@ -3,7 +3,7 @@
 ### Examples
 * [Breadcrumbs](Breadcrumbs)
 * [Carousel](Carousel)
-* [Header menu](Header%20menu)
+* [Header Menu](Header%20Menu)
 * [HTML](HTML)
 * [Organization Chart](Organization%20Chart)
 * [Sample Footer](Sample%20Footer)
@@ -48,4 +48,8 @@
 * [Data table from instance definition](Data%20table%20from%20Instance%20Definition)
 
 ### Search
+<<<<<<< Updated upstream
 * [Typeahead Search](Typeahead%20Search)
+=======
+* [Typeahead Search](Typeahead%20Search)
+>>>>>>> Stashed changes
