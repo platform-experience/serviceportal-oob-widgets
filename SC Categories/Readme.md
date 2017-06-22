@@ -14,11 +14,11 @@ The system renders the categories available in this widget from the Categories t
 
 Widget Option Schema parameters:
 
-**Hide at XS** - Toggle to hidden widget on small displays (mobile)
-**Omit badges** - Toggle to not show item badges
-**Check canView per item** - Toggle to display all items for a category `(may impact performance for large catalogs)`
-**Category Layout** - choices: Flat, Nested
-**page**
+**Hide at XS** - Toggle to hidden widget on small displays (mobile)<br/>
+**Omit badges** - Toggle to not show item badges<br/>
+**Check canView per item** - Toggle to display all items for a category `(may impact performance for large catalogs)`<br/>
+**Category Layout** - choices: Flat, Nested<br/>
+**page**<br/>
 
 ---
 ## ServiceNow® Documentation

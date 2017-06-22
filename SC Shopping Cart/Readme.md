@@ -6,11 +6,11 @@ The shopping cart widget, used in combination with Service Catalog, stores all o
 
 With the shopping cart widget, you can:
 
-* Control the quantity of items going into the cart.
-* Add items to a cart. This information gets stored in the sc_cart table.
-* Define who the items are being requested for.
-* Save specific items together as a bundle, which can be reloaded at a later time.
-* Use the Clear Cart option to remove all the items from your cart.
+* Control the quantity of items going into the cart.<br/>
+* Add items to a cart. This information gets stored in the sc_cart table.<br/>
+* Define who the items are being requested for.<br/>
+* Save specific items together as a bundle, which can be reloaded at a later time.<br/>
+* Use the Clear Cart option to remove all the items from your cart.<br/>
 
 If you want to add a bundle to your cart from the saved cart, you have the option of replacing all of the existing cart items with the bundle items, or including the bundle items with the cart items.
 

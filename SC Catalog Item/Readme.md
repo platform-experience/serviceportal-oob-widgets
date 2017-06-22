@@ -18,11 +18,11 @@ Determine whether users can add this item to the shopping cart by selecting the 
 
 Widget Option Schema parameters:
 
-**Show Add Cart Button** - Toggle to display the 'Add Cart' button
-**Custom URL Format** - Define a URL Format for successful order page
-**Successful Order Page** - Page to display for a success order
-**Successful Order Table** - Table used for order
-**Auto Redirect on Successful Order** - Toggle to enable auto-redirection after ordering an item
+**Show Add Cart Button** - Toggle to display the 'Add Cart' button<br/>
+**Custom URL Format** - Define a URL Format for successful order page<br/>
+**Successful Order Page** - Page to display for a success order<br/>
+**Successful Order Table** - Table used for order<br/>
+**Auto Redirect on Successful Order** - Toggle to enable auto-redirection after ordering an item<br/>
 
 ---
 ## ServiceNow® Documentation

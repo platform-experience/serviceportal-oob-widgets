@@ -12,8 +12,8 @@ List of service catalog items that users purchase often.
 
 Widget Option Schema parameters:
 
-**Limit** - Limit the number of items to show. `Default: 9`
-**Include Record Producers** - Toggle to include requests made through Record Producers
+**Limit** - Limit the number of items to show. `Default: 9`<br/>
+**Include Record Producers** - Toggle to include requests made through Record Producers<br/>
 
 
 ---
