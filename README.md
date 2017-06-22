@@ -3,15 +3,15 @@
 ### Examples
 * [Breadcrumbs](/tree/master/Breadcrumbs)
 * [Carousel](/tree/master/Carousel)
-* [Header menu](/tree/master/Header menu)
+* [Header menu](/tree/master/Header%20menu)
 * [HTML](/tree/master/HTML)
-* [Organization Chart](/tree/master/Organization Chart)
-* [Sample Footer](/tree/master/Sample Footer)
+* [Organization Chart](/tree/master/Organization%20Chart)
+* [Sample Footer](/tree/master/Sample%20Footer)
 * [Stock](/tree/master/Stock)
-* [Ticket Attachments](/tree/master/Ticket Attachments)
-* [Ticket Conversations](/tree/master/Ticket Conversations)
-* [Ticket Location](/tree/master/Ticket Location)
-* [User Profile](/tree/master/User Profile)
+* [Ticket Attachments](/tree/master/Ticket%20Attachments)
+* [Ticket Conversations](/tree/master/Ticket%20Conversations)
+* [Ticket Location](/tree/master/Ticket%20Location)
+* [User Profile](/tree/master/User%20Profile)
 * [Weather](/tree/master/Weather)
 
 ### Service Catalog
