@@ -45,11 +45,7 @@
 * [SP Page Map](SP%20Page%20Map)
 
 ### List and Form
-* [Data table from instance definition](Data%20table%20from%20Instance%20Definition)
+* [Data Table from Instance Definition](Data%20Table%20from%20Instance%20Definition)
 
 ### Search
-<<<<<<< Updated upstream
 * [Typeahead Search](Typeahead%20Search)
-=======
-* [Typeahead Search](Typeahead%20Search)
->>>>>>> Stashed changes
