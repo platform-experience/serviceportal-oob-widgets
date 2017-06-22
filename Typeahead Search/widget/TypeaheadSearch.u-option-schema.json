@@ -1,0 +1,1 @@
+[{ "name": "title", "label": "Title", "type": "string" }, { "name": "color", "label": "Color", "type": "string" }, { "name": "glyph", "label": "glyph", "type": "string" }, { "name": "size", "label": "Size", "type": "string" }, { "hint": "Number of typeahead search results returned (default 15)", "name": "limit", "label": "Limit", "type": "integer" }]
