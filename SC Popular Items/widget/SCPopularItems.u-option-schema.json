@@ -1,0 +1,1 @@
+[{ "hint": "Max number of popular items shown (if empty, defaults to 9)", "name": "limit", "default_value": "9", "label": "Limit", "type": "integer" }, { "hint": "Include requests made through Record Producers", "name": "include_record_producers", "label": "Include Record Producers", "type": "boolean" }]

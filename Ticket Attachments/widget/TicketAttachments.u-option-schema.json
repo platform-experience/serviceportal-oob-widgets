@@ -1,0 +1,1 @@
+[{ "hint": "ID of referenced record", "name": "record_id", "label": "Record ID", "type": "string" }, { "hint": "Table name of referenced record", "name": "record_table", "label": "Record Table", "type": "string" }]

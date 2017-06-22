@@ -1,0 +1,1 @@
+[{ "name": "click_event_name", "default_value": "$sp.cat_item_list.click", "label": "Click event name", "type": "string" }]
