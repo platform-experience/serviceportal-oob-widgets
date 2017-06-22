@@ -1,18 +1,18 @@
-##  TitleHere
+##  KB Article Page
 
 ## Description
 
-This Out of Box (OOB) widget ...
+Use the Article page widget to view Knowledge Base articles within Service Portal.
 
 ## Screenshots
-![alt text](../images/pe-tab-chart-selector.png "Tab Chart Selector")
+![alt text](../images/WidgetKBArticlePage.png "Widget KB Article Page")
 
 ---
 ## Configuration
----
+
 Widget Option Schema parameters:
 > None
----
+
 ## ServiceNow® Documentation
 [Product Documentation](https://docs.servicenow.com/search?q=) 
 
@@ -26,18 +26,6 @@ View production documentation ['Clone a Widget'](https://docs.servicenow.com/sea
 
 ---
 ## Platform Dependencies
----
-> None
----
-## Sample Data and Data Structures
----
-> None
----
-## API Dependencies
----
-> None
----
-## CSS/SASS Variables
----
-_CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
-> None
+
+### Angular Providers
+* spAttachmentManager
