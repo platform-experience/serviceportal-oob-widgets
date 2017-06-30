@@ -14,7 +14,7 @@ Because the HTML widget can contain content of any kind, any example may just ap
 
 Widget Option Schema parameters:
 
-**HTML** - Use to fill the widget with HTML markup. `Default: <b>hello</b>`
+**HTML** - Use to fill the widget with HTML markup. _Default: <b>hello</b>_
 
 ---
 ## ServiceNow® Documentation
@@ -23,7 +23,7 @@ Widget Option Schema parameters:
 ---
 ## Enhance or Expand Features and Functionality
 
-OOB Widgets are `READ ONLY` so you can benefit from future updates. Edit and extend a widget's functionality; you need to clone it first in order to take advantage of existing code.
+OOB Widgets are _READ ONLY_ so you can benefit from future updates. Edit and extend a widget's functionality; you need to clone it first in order to take advantage of existing code.
 
 View production documentation ['Clone a Widget'](https://docs.servicenow.com/search?q=Clone+a+Widget) to learn more.
 
@@ -31,4 +31,4 @@ View production documentation ['Clone a Widget'](https://docs.servicenow.com/sea
 ---
 ## Demo Data
 
-The Widget is supplied with demo data ```<i>Hi</i>``` for the **HTML** option schema parameter.
+The Widget is supplied with demo data `<i>Hi</i>` for the **HTML** option schema parameter.
