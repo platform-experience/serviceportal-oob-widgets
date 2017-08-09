@@ -1,4 +1,4 @@
-##  Organization Chart
+# Organization Chart
 
 ## Description
 
@@ -28,7 +28,7 @@ Widget Option Schema parameters:
 
 > Note: Color options can be in the form of color words (red,blue,azure,etc) or HEX values (#ff0000, #00ff00, #b4b4b4, etc).
 
-```javascript 
+```javascript
 // Default Values
 	options.table_layout = options.table_layout || {margin: 4, maxSize: '{new go.Size(180, NaN)}'}
 	options.row_layout = options.row_layout || {column: 0, stretch: '{go.GraphObject.Horizontal}', alignment: '{go.Spot.Left}'};
@@ -70,14 +70,14 @@ Widget Option Schema parameters:
 ```
 ---
 ## ServiceNow® Documentation
-[Product Documentation](https://docs.servicenow.com/search?q=Organization+Chart+widget) 
+[Product Documentation](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/build/service-portal/concept/org-chart-widget.html)
 
 ---
 ## Enhance or Expand Features and Functionality
 
 OOB Widgets are `READ ONLY` so you can benefit from future updates. Edit and extend a widget's functionality; you need to clone it first in order to take advantage of existing code.
 
-View production documentation ['Clone a Widget'](https://docs.servicenow.com/search?q=Clone+a+Widget) to learn more.
+View production documentation ['Clone a Widget'](https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/build/service-portal/task/t_CloneAndEditAWidget.html) to learn more.
 
 
 ---
